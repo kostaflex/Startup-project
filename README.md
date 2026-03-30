@@ -15,4 +15,4 @@ Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 
-Environment: Deepnote.
+Environment: Google colab.
